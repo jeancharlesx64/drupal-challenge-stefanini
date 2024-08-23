@@ -1,0 +1,15 @@
+{
+    "name": "jcalbuquerque/php-training",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "jeancharlesx64",
+            "email": "jean.albuquerque@sptech.school"
+        }
+    ],
+    "require": {}
+}
