@@ -1,7 +1,7 @@
 <?php
     namespace app\controllers;
-    
-    class homeController{
-        
+
+    class ContactController{
+
     }
 ?>
