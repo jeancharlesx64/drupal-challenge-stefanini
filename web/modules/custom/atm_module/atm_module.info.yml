@@ -1,0 +1,7 @@
+name: 'ATM Module'
+type: module
+description: 'Module to calculate and make ATM withdrawals'
+core_version_requirement: ^9 || ^10 || ^11
+package: Custom
+dependencies:
+  - drupal:field

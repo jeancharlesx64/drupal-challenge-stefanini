@@ -1,0 +1,7 @@
+atm_module.atm_form:
+  path: '/atm-form'
+  defaults:
+    _form: '\Drupal\atm_module\Form\AtmForm'
+    _title: 'ATM Form'
+  requirements:
+    _permission: 'access content'
