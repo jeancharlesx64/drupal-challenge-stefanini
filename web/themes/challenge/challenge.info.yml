@@ -1,0 +1,8 @@
+name: 'Challenge Theme'
+type: theme
+description: 'Um tema personalizado para o projeto Challenge.'
+package: Custom
+base theme: gin
+core_version_requirement: ^9 || ^10 || ^11
+libraries:
+  - challenge/global-styling
