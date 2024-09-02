@@ -1,0 +1,11 @@
+database name = 'challenge';
+database user = 'root';
+database password = 'root123';
+all files is at : /drump001/*.sql
+
+
+user = 'admin';
+password = 'admin123'
+URL found at : localhost:XXXX/user/login
+
+
