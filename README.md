@@ -33,6 +33,21 @@ Follow these steps to install the Drupal project:
 1. **Clone the Repository**:
    Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/jeancharlesx64/your-challenge-stefanini.git
-   cd your-drupal-project
+   git clone https://github.com/jeancharlesx64/drupal-challenge-stefanini.git
+   cd drupal-challenge-stefanini
+   ```
+   
+ 2. **Install dependencies**:
+  Use Composer to install PHP dependencies::
+ ```bash
+    composer install
+ ```
+    
+ 3. **Create a Database**:
+Configure MySQL and import the database in /database/dump/*.sql
+
+4. **Enter the Web directory**:
+   Start the server using the .ht.router.php file:
+   ```bash
+     php -S localhost:3333 .ht.router.php
    ```
